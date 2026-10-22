@@ -1,0 +1,5 @@
+homepage: "https://www.arihub.com/ariconsent/"
+documentation: "https://github.com/arihub/ariconsent-gtm-template#readme"
+versions:
+  - sha: 3e688d08e4c462fd8ffde6327c8c0fd5cc59c4b6
+    changeNotes: Initial release.
